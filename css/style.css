@@ -95,7 +95,7 @@ code, pre, pre code {
 }
 
 .primary-color {
-  background-color: #4A63E7;
+  background-color: #b33e20cb;
 }
 
 .additional-color {
@@ -146,7 +146,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 .transparent-color-with-border.button:hover {
   color: #000000;
-  background: #FFFFFF;
+  background: #ffffff;
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
   -webkit-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
@@ -154,8 +154,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 .additional-color.button:hover {
-  color: #FFFFFF;
-  background: #4A63E7;
+  color: #1f0101;
+  background: #caae0b;
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
   -webkit-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
@@ -165,7 +165,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 .dot:after {
   content: "";
   display: inline-block;
-  background-color: #FF5959;
+  background-color: #0a0505;
   border-radius: 50%;
   margin-left: 5px;
   height: 8px;
